@@ -21,4 +21,4 @@
 
 ## Авторы
 
-* **USER-MATVEY** - *Initial work* - [PurpleBooth](https://github.com/USER-MATVEY)
+* **USER-MATVEY** - *Initial work* - [Your little novice programmer :3](https://github.com/USER-MATVEY)
