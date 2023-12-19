@@ -1,0 +1,102 @@
+QMainWindow{
+    background-color: #2C3C43;
+}
+
+QLabel{
+    color: #90C226;
+    font: bold 14px;
+}
+
+QPushButton {
+    background-color: #92C230;
+    border-style: outset;
+    border-radius: 10px;
+    border-color: beige;
+    font: bold 11px;
+    min-width: 15em;
+    padding: 6px;
+}
+
+QPushButton#rndButton{
+    background-color: #92C230;
+    border-style: outset;
+    border-radius: 20px;
+    border-color: beige;
+    font: bold 14px;
+    min-width: 5em;
+    padding: 40px 20px;
+}
+
+QPushButton#ordButton{
+    background-color: #92C230;
+    border-style: outset;
+    border-radius: 10px;
+    border-color: beige;
+    font: bold 10px;
+    min-width: 5em;
+    padding: 6px;
+}
+
+QPushButton:hover {
+    background-color: #AEDC47;
+    border-color: #8CBF2A;
+}
+
+QPushButton:pressed{
+    border-style: insert;
+    background-color: #506A14
+}
+
+QPushButton#rndButton:hover {
+    background-color: #AEDC47;
+    border-color: #8CBF2A;
+}
+
+QPushButton#rndButton:pressed{
+    border-style: insert;
+    background-color: #506A14
+}
+
+QPushButton#ordButton:hover {
+    background-color: #AEDC47;
+    border-color: #8CBF2A;
+}
+
+QPushButton#ordButton:pressed{
+    border-style: insert;
+    background-color: #506A14
+}
+
+QLineEdit {
+    border: 2px solid #ccc;
+    background-color: #333;
+    border-radius: 8px;
+    padding: 6px;
+    font: bold 12px;
+    color: #90C226;
+}
+
+QLineEdit:hover {
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+QLineEdit:focus {
+    border-color: #0078d7;
+}
+
+QLineEdit:disabled {
+    background-color: rgba(255, 255, 255, 0.3);
+    color: #999;
+}
+
+QLineEdit::placeholder {
+    color: #999;
+}
+
+QLineEdit::selection {
+    background-color: #0078d7;
+}
+
+QMessageBox{
+    background-color: #2C3C43;
+}
