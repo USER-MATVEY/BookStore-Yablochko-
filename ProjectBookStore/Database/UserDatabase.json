@@ -1,0 +1,16 @@
+{
+  "test_user": {
+    "name": "test",
+    "telephone": "8888888888888888",
+    "email": "test@test.ru",
+    "passwd": "test",
+    "category": "user"
+  },
+  "main_admin": {
+    "name": "admin",
+    "telephone": "--------------",
+    "email": "admining@admin.com",
+    "passwd": "admin",
+    "category": "ADMIN"
+  }
+}

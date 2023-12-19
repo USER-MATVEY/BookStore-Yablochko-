@@ -1,0 +1,16 @@
+{
+  "0": {
+    "user": "test_user",
+    "date": "2022-12-01",
+    "sum_price": 1400,
+    "order_status": "In work",
+    "books": ["book1", "book2", "book4"]
+  },
+  "1": {
+    "user": "test_user",
+    "date": "2021-12-01",
+    "sum_price": 3400,
+    "order_status": "Bruh What?",
+    "books": ["book1"]
+  },
+  "2": {"user": "test_user", "date": "2020-12-01", "sum_price": 1500, "order_status": "On hold", "books": ["book1", "book2"]}, "3": {"user": "test_user", "date": "2019-12-01", "sum_price": 600, "order_status": "Complete", "books": ["book1", "book2", "book2", "book1"]}, "ID": {"user": "test_user", "date": "2023-12-19", "sum_price": 0, "order_status": "Waiting to peak up", "books": ["NEW_testbook"]}}

@@ -1,0 +1,56 @@
+{
+  "0": {
+    "path": "Pictures/image.png",
+    "bookname": "testbook",
+    "genre": "sci-fi",
+    "author": "Admin",
+    "publisher": "pubAdmin",
+    "publication_date": "02.02.22",
+    "price": 1000
+  },
+    "1": {
+    "path": "Pictures/image.png",
+    "bookname": "NEW",
+    "genre": "sci-fi",
+    "author": "Some_user",
+    "publisher": "pubAdmin",
+    "publication_date": "22.22.22",
+    "price": 1500
+  },
+    "2": {
+    "path": "Pictures/image.png",
+    "bookname": "SOMESOME",
+    "genre": "sci-fi",
+    "author": "Admin",
+    "publisher": "pubAdmin",
+    "publication_date": "02.21.20",
+    "price": 800
+  },
+    "3": {
+    "path": "Pictures/image.png",
+    "bookname": "testbook_2!",
+    "genre": "sci-fi",
+    "author": "Admin",
+    "publisher": "pubAdmin",
+    "publication_date": "24.24.24",
+    "price": 100
+  },
+    "4": {
+    "path": "Pictures/image.png",
+    "bookname": "USER_GUIDE",
+    "genre": "sci-fi",
+    "author": "Admin",
+    "publisher": "pubAdmin",
+    "publication_date": "202.02.22",
+    "price": 1234
+  },
+    "5": {
+    "path": "Pictures/image.png",
+    "bookname": "NEW_testbook",
+    "genre": "sci-fi",
+    "author": "Admin",
+    "publisher": "pubAdmin",
+    "publication_date": "02.02.22",
+    "price": 0
+  }
+}
